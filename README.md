@@ -1,3 +1,2 @@
-### bigvgan-demo.github.io
+### Demo page of SNR calculation for differrent Mel-to-Waveform models
 
-demo page of bigvgan
